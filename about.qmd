@@ -1,5 +1,8 @@
 
+## About Me
 
-This is an about page, write down information 
+I am currently a fourth year Statistics and Data Science student at the University of California, Los Angeles (UCLA).
 
+## Resume
 
+Attached is my current [resume.](Suraj_resume_website.pdf "Resume")

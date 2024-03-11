@@ -1,5 +1,7 @@
+# My Relevant Work Experience
+
+In my internship at Applied Materials, I played a key role in streamlining data collection processes and ensuring data integrity, leveraging Python and Excel to handle large datasets effectively. This experience ties into my project work, such as analyzing the impact of Airbnb listings on New York City's housing market and studying academic performance disparities in Iowa schools. Through these projects, I employed R for intricate data cleaning and Tableau for insightful visualizations, demonstrating the practical application of my data science skills to real-world problems.
 
 
-Demonstrate projects
 
 

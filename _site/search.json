@@ -4,27 +4,27 @@
     "href": "about.html",
     "title": "",
     "section": "",
-    "text": "This is an about page, write down information"
+    "text": "I am currently a fourth year Statistics and Data Science student at the University of California, Los Angeles (UCLA)."
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "",
+    "section": "",
+    "text": "I am currently a fourth year Statistics and Data Science student at the University of California, Los Angeles (UCLA)."
+  },
+  {
+    "objectID": "about.html#resume",
+    "href": "about.html#resume",
+    "title": "",
+    "section": "Resume",
+    "text": "Resume\nAttached is my current resume."
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "",
+    "title": "My Relevant Work Experience",
     "section": "",
-    "text": "Demonstrate projects"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "",
-    "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "index.html#title-of-website",
-    "href": "index.html#title-of-website",
-    "title": "",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "My Relevant Work Experience\nIn my internship at Applied Materials, I played a key role in streamlining data collection processes and ensuring data integrity, leveraging Python and Excel to handle large datasets effectively. This experience ties into my project work, such as analyzing the impact of Airbnb listings on New York City’s housing market and studying academic performance disparities in Iowa schools. Through these projects, I employed R for intricate data cleaning and Tableau for insightful visualizations, demonstrating the practical application of my data science skills to real-world problems."
   }
 ]
